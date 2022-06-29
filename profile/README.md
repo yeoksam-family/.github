@@ -22,3 +22,4 @@
 * **[김세린](https://github.com/SRin23)** 
 * **[김하늘](https://github.com/KimSky904)** 
 * **[조혜라](https://github.com/areyh817)** 
+* **[김하진](https://github.com/akwls)**
