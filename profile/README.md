@@ -1,6 +1,5 @@
 # 🚎 역삼팟들의 개발 서적 읽기
 역삼팟들이 읽은 책들을 기록하고 정리하는 repository입니다!  
-<a href="https://yeoksam-family.notion.site/Yeoksam-Family-8e87362a3b774028a09c742ba9c76d68">노션 보러가기</a>   
 <br>
 
 ## 📁 읽고 있는 책
