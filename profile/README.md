@@ -32,4 +32,4 @@
 <br>
 
 ## ✔ 노션보러가기
-<a href="https://yeoksam-family.notion.site/3e499dde228f496cbc2df27b33348a0e?v=273083fadb954dfb9c285eb98f17e493"><img src="https://i.postimg.cc/8PfDGW5J/png.png" height=100></a>
+<a href="https://yeoksam-family.notion.site/Yeoksam-Family-8e87362a3b774028a09c742ba9c76d68"><img src="https://i.postimg.cc/8PfDGW5J/png.png" height=100></a>
